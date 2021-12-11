@@ -1,0 +1,12 @@
+{
+  "name": "YazLab22",
+  "displayName": "YazLab22",
+  "expo": {
+    "name": "YazLab22",
+    "slug": "YazLab22",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
